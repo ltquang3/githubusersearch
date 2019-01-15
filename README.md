@@ -17,4 +17,4 @@ This is a sample iOS and Android app created with React Native that lets you sea
 rm -rf node_modules && \
 rm -rf /tmp/metro-bundler-cache-* && \
 rm -rf /tmp/haste-map-react-native-packager-* && \
-yarn```
+yarn
