@@ -2,6 +2,8 @@
 
 This is a sample iOS and Android app created with React Native that lets you search for a Github user by their username
 # Demo
+![github-githubusersearch](/ScreenShots/Screen%20Shot%202019-01-15%20at%202.17.55%20PM.png)
+![github-githubusersearch](/ScreenShots/Screen%20Shot%202019-01-15%20at%202.18.43%20PM.png)
 https://github.com/ltquang3/githubusersearch/blob/master/ScreenShots/Screen%20Shot%202019-01-15%20at%202.17.55%20PM.png
 https://github.com/ltquang3/githubusersearch/blob/master/ScreenShots/Screen%20Shot%202019-01-15%20at%202.18.43%20PM.png
 
